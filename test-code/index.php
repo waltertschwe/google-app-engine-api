@@ -114,16 +114,7 @@
         </div><!--/.nav-collapse -->
       </div>
     </div>
-<!-- Start Modal Windows -->
-<!-- <div class="alert" id="question">Are you sure you want to delete this event ?</div> -->
-<!-- End Modal Windows -->
-
 <div class="container">
-	<!-- <div class="page-header">
-		<h3>Event Manager</h3>
-		<p><a class="btn btn-lg btn-success" href="#" role="button">Create a New Event</a></p>
- </div> -->
- 
 <div class="page-header">
     <h1>Stirplate.io - Instance Manager Tool</h1>
 </div>
@@ -133,13 +124,10 @@
 	data-style="expand-right" data-color="green" data-size="medium" data-spinner-size="40" data-spinner-color="#ff0000">
 	<span class="ladda-label">Launch All Instances &raquo;</span> 
 </button>
-	
-	&nbsp;&nbsp;
+		&nbsp;&nbsp;
 	<a id="stop-instances" class="btn btn-lg btn-danger" href="" role="button">Shut down All Instances</a>	
 </p>
-
 </div>
-
 <table cellpadding="0" cellspacing="0" border="0" class="display" id="example">
 	<thead>
 		<tr>
